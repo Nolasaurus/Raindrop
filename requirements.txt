@@ -1,4 +1,7 @@
-torch==1.9.0+cu102
+pytorch==1.9.1
+torchvision==0.10.1
+torchaudio==0.9.1
+cudatoolkit==10.2
 numpy==1.19.4
 sklearn==0.0
 scikit-learn==0.24.2
